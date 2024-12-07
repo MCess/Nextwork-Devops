@@ -56,7 +56,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Your Name - [Your Email](mailto:your.email@email.com)
+Michael Cessaro - [m.cessaro@gmnail.com](mailto:your.email@email.com)
 
 <br>
 
