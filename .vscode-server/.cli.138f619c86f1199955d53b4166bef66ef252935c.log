@@ -1,0 +1,10 @@
+Listening on 127.0.0.1:39719
+[2024-12-12 07:57:04] info Disposed of connection to running server.
+[2024-12-12 07:57:04] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/pid.txt for a running server...
+[2024-12-12 07:57:04] info Downloading Visual Studio Code server -> /tmp/.tmpTmPUw4/vscode-server-linux-x64.tar.gz
+[2024-12-12 07:57:07] info Starting server...
+[2024-12-12 07:57:07] info Server started
+[2024-12-12 07:57:14] info Disposed of connection to running server.
+[2024-12-12 07:57:15] info Disposed of connection to running server.
+[2024-12-12 07:57:15] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/pid.txt for a running server...
+[2024-12-12 07:57:15] info Found running server (pid=3011)
