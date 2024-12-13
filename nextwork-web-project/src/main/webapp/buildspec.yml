@@ -11,13 +11,12 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - mvn -s Nextwork-Devops/nextwork-web-project/src/main/webapp
-/settings.xml package
+      - mvn -s nextwork-web-project/src/main/webapp/settings.xml package
 
   post_build:
     commands:
       - echo Build completed on `date`
-      - mvn -s settings.xml package
+      - mvn -s nextwork-web-project/src/main/webapp/settings.xml package
 artifacts:
   files:
     - target/nextwork-web-project.war
